@@ -243,6 +243,7 @@ h6 {
   height: 100vh;
   background-color: #faf0e675;
   background: url("../img/logo_zarellas.png") top center;
+  background-size: auto;
   background-size: cover;
 }
 
