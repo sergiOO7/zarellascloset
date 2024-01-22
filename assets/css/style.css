@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/logo_zarellas.png") top center;
+  background-color: #faf0e675;
   background-size: cover;
 }
 
